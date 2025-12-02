@@ -96,7 +96,7 @@ while True:
         segments.clear()
 
         # Reset score        score = 0
-        delay = 0.12
+        delay = 0.15
 
         # Update scoreboard
         scoreboard.clear()
@@ -168,3 +168,4 @@ while True:
     time.sleep(delay)
 
 win.mainloop()
+
